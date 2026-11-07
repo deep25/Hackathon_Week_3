@@ -86,3 +86,4 @@ This is an educational project. It does not diagnose any condition and is not me
 
 This is the file where i started working first and built the intial project and code. Later on I organized my code with the help of AI. Also, with my code, I built an interactive HTML file(it's sitting in a 2nd branch). I also, did some research on medical sysmptoms, conditions. What to analyze and how to read it. However, due to time limitation, I used some data from google research and AI to analyze and built a tracker.
 
+https://colab.research.google.com/drive/1H__qbI6BE7sYrS4h6aSRtPMT6txebGpH#scrollTo=17695d82
